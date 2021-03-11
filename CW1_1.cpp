@@ -32,6 +32,5 @@ int main()
 	cin >> x;
 	cout << "sin(x) = " << sinX(x) << endl;
 	cout << "STANDART sin(x) = " << sin(x)<<endl;
-	cout << fact(5);
 	return 0;
 }
