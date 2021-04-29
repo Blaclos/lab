@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\sam2\sam2\Source.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+  sam2.vcxproj -> C:\Users\Admin\source\repos\sam2\Debug\sam2.exe
