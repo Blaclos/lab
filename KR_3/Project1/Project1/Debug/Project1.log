@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\KR_3\Project1\Project1\Source.cpp(5,1): warning C4005: SIZE: изменение макроопределения
+C:\Users\Admin\Desktop\KR_3\Project1\Project1\film.h(2): message : см. предыдущее определение "SIZE"
+  Project1.vcxproj -> C:\Users\Admin\Desktop\KR_3\Project1\Debug\Project1.exe
