@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\KR_3\Project2\Project2\Source.cpp(21,11): error C2374: input: переопределение; множественная инициализация
+C:\Users\Admin\Desktop\KR_3\Project2\Project2\Source.cpp(8): message : см. объявление "input"
+C:\Users\Admin\Desktop\KR_3\Project2\Project2\Source.cpp(23,8): error C2088: >>: недопустимо для class
+C:\Users\Admin\Desktop\KR_3\Project2\Project2\Source.cpp(26,9): error C2088: >>: недопустимо для class
